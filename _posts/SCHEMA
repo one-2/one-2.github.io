@@ -4,6 +4,7 @@ Filename: _posts/YYYY-MM-DD-title.md
 ---
 title: "My Post Title"
 date: 2026-03-16
+paperurl: /files/your-paper.pdf
 modified: 2026-03-16
 excerpt: "A short summary shown in listings and social previews."
 tags: [tag1, tag2]

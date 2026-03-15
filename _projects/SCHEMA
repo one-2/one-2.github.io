@@ -5,6 +5,7 @@ Filename: _projects/project-name.md
 title: "My Project"
 excerpt: "Short description shown in listings."
 date: 2026-03-16
+paperurl: /files/your-paper.pdf
 header:
   teaser: /images/project-thumb.png
   overlay_image: /images/project-banner.png
