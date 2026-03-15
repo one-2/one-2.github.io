@@ -2,7 +2,6 @@
 title: 'Engineering Catalyst, A Scalable Machine Learning Framework'
 date: 2025-02-20
 permalink: /posts/2025/02/engineering-catalyst-a-scalable-machine-learning-framework/
-paper_url: https://academicpages.github.io/
 tags:
   - artificial intelligence
   - software engineering
