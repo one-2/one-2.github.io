@@ -1,12 +1,13 @@
 ---
 title: 'How Machine Learning Extends Software Engineering'
 date: 2024-06-09
-permalink: /posts/2024/06/how-ml-extends-software-eng.md
+permalink: /posts/2024/06/how-ml-extends-software-eng
 tags:
   - artificial intelligence
   - software engineering
 ---
 
+---
 A bank transfer system. A stock exchange. A physics simulator. These are classic examples of traditional software engineering: deterministic, rule-based instruction sets written by humans. Machine learning extends traditional software engineering by applying statistics to software decision making. With statistics, software can learn from observations of the world, generating the instruction sets autonomously.
 
 Traditional software involves defining the breadth of cases that a computer may encounter in executing a task, and writing instructions (“programs”) to deal with those cases, ahead of time. Many real-world systems can be simplified and isolated to provide the required specification, allowing the engineer to construct a software solution.

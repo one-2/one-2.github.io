@@ -1,7 +1,7 @@
 ---
 title: 'Founding and Engineering UniMate'
 date: 2025-03-31
-permalink: /posts/2025/03/founding-and-engineering-unimate.md
+permalink: /posts/2025/03/founding-and-engineering-unimate/
 tags:
   - software engineering
   - data engineering
