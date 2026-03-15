@@ -1,0 +1,29 @@
+POST SCHEMA
+Filename: _posts/YYYY-MM-DD-title.md
+
+---
+title: "My Post Title"
+date: 2026-03-16
+modified: 2026-03-16
+excerpt: "A short summary shown in listings and social previews."
+tags: [tag1, tag2]
+categories: [blog]
+read_time: true
+share: true
+comments: false
+related: true
+header:
+  overlay_image: /images/some-banner.png
+  overlay_filter: 0.4
+  caption: "Photo credit: Me"
+  teaser: /images/some-thumb.png
+gallery:
+  - image_path: /images/pic1.png
+    alt: "Description"
+    title: "Caption"
+sidebar:
+  - title: "Related"
+    text: "Some sidebar text or links."
+---
+
+Your content here.

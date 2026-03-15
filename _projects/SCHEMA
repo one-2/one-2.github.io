@@ -1,0 +1,26 @@
+PROJECT SCHEMA
+Filename: _projects/project-name.md
+
+---
+title: "My Project"
+excerpt: "Short description shown in listings."
+date: 2026-03-16
+header:
+  teaser: /images/project-thumb.png
+  overlay_image: /images/project-banner.png
+  overlay_filter: 0.3
+  cta_label: "View on GitHub"
+  cta_url: "https://github.com/one-2/my-project"
+share: true
+sidebar:
+  - title: "Stack"
+    text: "Python, PyTorch, FastAPI"
+  - title: "Links"
+    text: "[GitHub](https://github.com/one-2/my-project) · [Docs](https://example.com)"
+gallery:
+  - image_path: /images/screenshot1.png
+    alt: "Screenshot"
+    title: "Main interface"
+---
+
+Your content here.
