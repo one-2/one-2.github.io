@@ -1,6 +1,6 @@
 ---
 title: 'A Safety Evaluation Of Moltbook Posts'
-date: 2025-02-06
+date: 2026-02-06
 permalink: /posts/2026/02/safety-evaluation-of-moltbook-posts/
 tags:
   - artificial intelligence
