@@ -9,10 +9,6 @@ tags:
   - system architecture
 ---
 
-# My Experience Founding and Engineering UniMate
-
-## Introduction
-
 I was a co-founder and sole engineer for UniMate in the second year of my degree. It was an event aggregation and data processing system that integrated distributed proxies for web scraping, GPT-based multi-label classification, modular I/O architecture, CLI interaction, dynamic HTML parsing, and a failure-tolerant data pipeline with partial restart. It ran on a no-code frontend. This was my first real-world system, and it taught me about design, trading off speed and quality, and minimal engineering for scalability.
 
 Here, I want to share what I learned. I'll break down the technical side and explore the tension we faced between business and technology needs.
