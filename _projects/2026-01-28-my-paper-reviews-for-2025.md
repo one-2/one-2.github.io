@@ -1,7 +1,7 @@
 ---
-title: 'Engineering Catalyst, A Scalable Machine Learning Framework'
+title: 'My Paper Reviews For 2025'
 date: 2026-01-28
-permalink: /posts/2026/01/my-paper-reviews-from-2025
+permalink: /posts/2026/01/my-paper-reviews-for-2025
 tags:
   - artificial intelligence
   - research
