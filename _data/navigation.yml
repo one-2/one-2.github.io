@@ -14,11 +14,14 @@ main:
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Demos"
+    url: /demos/
     
   # - title: "CV"
   #   url: /cv/
