@@ -9,7 +9,7 @@ redirect_from:
 
 **Who I am**
 
-I'm Stephen. I'm a computer science and economics undergraduate at UNSW, Director at Gigascale Labs, Organiser of the Deep Network research community, and a keen surfer. In the past I've founded an events aggregator business and evaluated grants for the federal government.
+I'm a grad in CS and economics, presently founding Gigascale Labs to accelerate gradual disempowerment modelling. Previously I organised the Deep Network reading group, founded an events aggregator business, and evaluated grants for the federal government.
 
 **What I think**
 
@@ -17,6 +17,6 @@ A central challenge of our generation is to manage the risks of artificial intel
 
 **What I'm doing about it**
 
-I'm growing Gigascale Labs to work on the billion-scale multi-agent safety problem. Measuring, understanding, and controlling systems of autonomous AIs closely resembles problems in economics, physics, network science, and complex systems science. We bring together researchers across disciplines to make progress on it. You can find our website [here](https://www.gigascale-labs.org).
+I'm growing Gigascale Labs to work on the billion-scale multi-agent safety problem. Measuring, understanding, and forecasting gradual disempowerment requires expensive specialists across disciplines and months per modelling task. We're accelerating that by automating parts of the modelling process. You can find our website [here](https://www.gigascale-labs.org).
 
 ---
