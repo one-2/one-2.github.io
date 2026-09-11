@@ -2,6 +2,7 @@
 title: "Safety's Second Way"
 date: 2026-08-28
 permalink: /posts/2026/08/safetys-second-way/
+excerpt: "The response of OpenAI before the incident, and the broader community afterwards, displays the field’s “monolith fixation”: a historic focus on single-agent threat models which treats multi-agent problems as second-class. Leaving this fixation untreated leaves known threats unmitigated and probably increases the chance of catastrophic outcomes due to neglect, not due to lack of knowledge."
 ---
 
 *Epistemics: I've tried to strike a balance between getting it right and getting it out while the community is discussing how to update. I am using the Hack as an example of a broader problem. I look forward to counterarguments.*
