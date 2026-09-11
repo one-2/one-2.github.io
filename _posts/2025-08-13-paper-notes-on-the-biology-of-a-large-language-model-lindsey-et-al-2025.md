@@ -18,6 +18,7 @@ tags:
   - mechanistic interpretability
   - research
   - technology
+archive_hidden: true
 ---
 
 Last week, Deep Network's reading group read *On the Biology of a Large Language Model*.[^1] The research team comes from Anthropic's [interpretability research group](https://www.anthropic.com/research#interpretability), and was published in the [Transformer Circuits](https://transformer-circuits.pub/) interactive research thread as well as on the Anthropic website.

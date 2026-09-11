@@ -13,6 +13,7 @@ tags:
   - methodology
   - research
   - technology
+archive_hidden: true
 ---
 
 Welcome to Paper Notes, the vessel for the thoughts and reflections of our weekly reading group.

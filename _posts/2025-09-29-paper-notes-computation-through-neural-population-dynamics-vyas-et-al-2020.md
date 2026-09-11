@@ -17,6 +17,7 @@ tags:
   - neurology
   - neuroscience
   - research
+archive_hidden: true
 ---
 
 Welcome to Paper Notes, where we record our groups' weekly discussions of innovative papers from across artificial intelligence.

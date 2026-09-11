@@ -17,6 +17,7 @@ tags:
   - MRI
   - neuroscience
   - research
+archive_hidden: true
 ---
 
 On Monday the 8th of September, the mathematics reading group started our new neuroscience sprint with *It’s About Time: Linking Dynamical Systems With With Human Neuroimaging To Understand The Brain*.[^1]
@@ -49,7 +50,7 @@ This led to a brief discussion of the recent *Thought Anchors* mechanistic inter
 
 ## Members' reflections
 
-**June**: DST is a good way and supplement to the static statistical methods, though I'm not sure how DST can exceed the static approach, or its competitive advantage. This may lie in predicting state transitions—like attention lapses or seizures.
+**June**: DST is a good way and supplement to the static statistical methods, though I'm not sure how DST can exceed the static approach, or its competitive advantage. This may lie in predicting state transitions-like attention lapses or seizures.
 
 Information theory can be used in encoding the signal of brain, with similar effects as in machine learning methods. Predictive coding, variational autoencoders, and contrastive learning balance compression with usefulness. Brain activity may be an efficient coding, also forming representations optimised for flexible behaviour.
 

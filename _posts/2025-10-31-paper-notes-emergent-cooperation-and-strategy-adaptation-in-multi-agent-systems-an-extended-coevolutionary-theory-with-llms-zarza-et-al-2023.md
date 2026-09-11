@@ -17,6 +17,7 @@ tags:
   - research
   - research methods
   - technology
+archive_hidden: true
 ---
 
 Welcome to Paper Notes, where we record our groups’ weekly discussions of innovative papers from across artificial intelligence. On Tuesday the 21st of October, our mathematics reading group read [*Emergent Cooperation and Strategy Adaptation in Multi-Agent Systems: An Extended Coevolutionary Theory with LLMs*](https://www.mdpi.com/2079-9292/12/12/2722),[^1] published in MDPI Electronics in 2023. The authors come from a collection of three universities and a lab, across Spain and Germany.

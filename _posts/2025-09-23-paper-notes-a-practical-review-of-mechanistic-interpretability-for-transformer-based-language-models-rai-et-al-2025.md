@@ -16,6 +16,7 @@ tags:
   - research
   - technology
   - transformer
+archive_hidden: true
 ---
 
 On Friday the 5th of September, the general reading group continued its mechanistic interpretability sprint with *A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models*.[^1] The research team comes from across several US universities, with one member from Salesforce Research. Its lead author is a PhD student, and its second author a PhD working in industry. The survey was posted on arXiv and presented as a tutorial at ICML 2025.[^2]
