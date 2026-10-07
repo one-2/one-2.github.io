@@ -7,14 +7,4 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% assign visible_posts = site.posts | where_exp: "post", "post.archive_hidden != true" %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in visible_posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<p>See <a href="https://substack.com/@stephenelliott701580">Substack</a> and <a href="https://www.lesswrong.com/users/stephen-elliott">LessWrong</a>.</p>
