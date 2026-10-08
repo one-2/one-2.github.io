@@ -18,17 +18,18 @@ I'm also conducting basic research into large multi-agent systems, which you can
 
 A central challenge of our generation is to manage artificial intelligence risks. Agentic AI is running on systems designed for humans and traditional algorithms. Our economic, social, epistemic, and financial infrastructure needs to be adapted to make large-scale AI deployments safe.
 
+**Background**
+
+I graduated from UNSW Sydney with a double Bachelor in Economics and Computer Science.Before that I organised the Deep Network reading group, founded an events aggregator business, and evaluated grants for the federal government.
+
 **Grant Outcomes**
 
 - U$3450 from BlueDot Impact for my transition into AI safety.
 - U$1500 from BlueDot Impact for travel to ICML 2026 to attend the [Supercooperation workshop](https://theexistentialhope.substack.com/p/supercooperation-the-future-of-ai).
 - U$1500 from Habermolt team at Change.org for empirical investigation of agent deliberation systems.
 
-**Background**
-
-I graduated from UNSW Sydney with a double Bachelor in Economics and Computer Science.Before that I organised the Deep Network reading group, founded an events aggregator business, and evaluated grants for the federal government.
-
 **Contact**
+
 Via [LinkedIn](https://www.linkedin.com/in/stephen-elliott231).
 
 ---
